@@ -1,0 +1,17 @@
+[2025-02-27 23:43:37] Key pressed: shift
+[2025-02-27 23:43:38] Key pressed: H
+[2025-02-27 23:43:38] Key pressed: a
+[2025-02-27 23:43:38] Key pressed: p
+[2025-02-27 23:43:38] Key pressed: p
+[2025-02-27 23:43:38] Key pressed: y
+[2025-02-27 23:43:39] Key pressed: space
+[2025-02-27 23:43:39] Key pressed: right shift
+[2025-02-27 23:43:39] Key pressed: B
+[2025-02-27 23:43:39] Key pressed: i
+[2025-02-27 23:43:39] Key pressed: r
+[2025-02-27 23:43:39] Key pressed: t
+[2025-02-27 23:43:40] Key pressed: h
+[2025-02-27 23:43:40] Key pressed: d
+[2025-02-27 23:43:40] Key pressed: a
+[2025-02-27 23:43:40] Key pressed: y
+[2025-02-27 23:43:40] Key pressed: enter
